@@ -32,3 +32,13 @@ class Swetha:
         "Kubernetes"
     ]
 ```
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,mysql,git,github,vscode,react" />
+
+</p>
