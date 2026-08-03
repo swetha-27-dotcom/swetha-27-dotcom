@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**swetha-27-dotcom/swetha-27-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Swetha S
 
-Here are some ideas to get you started:
+### Python Backend Developer | AI & GenAI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Python+Backend+Developer)](https://git.io/typing-svg)
+
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=swetha-27-dotcom&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetha-27-dotcom&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+</div>
+
