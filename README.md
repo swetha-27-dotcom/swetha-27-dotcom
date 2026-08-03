@@ -71,3 +71,42 @@ class Swetha:
 </a>
 
 </p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=swetha-27-dotcom&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swetha-27-dotcom&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 💼 4+ Years of IT Experience
+- 🐍 Python Backend Developer
+- 🤖 AI & GenAI Enthusiast
+- ⚡ FastAPI Developer
+- 🐳 Docker Learner
+- 📚 Currently Exploring LangGraph & AI Agents
+
+---
+
+<div align="center">
+
+### 💜 "Code. Learn. Build. Repeat."
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2500&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+AI+Applications...;Always+Learning...;Open+to+Collaborate...;Welcome+to+my+GitHub!"/>
+
+</div>
