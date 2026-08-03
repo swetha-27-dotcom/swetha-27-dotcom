@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="assets/banner/banner.png" width="100%" />
+
 # 👋 Hi, I'm Swetha S
 
 ### Python Backend Developer | AI & GenAI Engineer
 
-<!-- Typing SVG here -->
+<!-- Typing SVG -->
 
 </div>
 
