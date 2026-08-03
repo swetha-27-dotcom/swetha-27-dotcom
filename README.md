@@ -39,6 +39,6 @@ class Swetha:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,mysql,git,github,vscode,react" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,mysql,git,github,vscode,react,html,css" />
 
 </p>
