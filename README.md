@@ -42,3 +42,14 @@ class Swetha:
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,mysql,git,github,vscode,react,html,css" />
 
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🤖 AI Deploy Hub | AI-powered deployment assistant | Python, FastAPI, Docker |
+| 💬 RAG Chatbot | Chat with documents using RAG | LangChain, Pinecone, FastAPI |
+| 📊 Workforce Analytics | Forecasting & analytics dashboard | Python, Pandas, SQL |
+| ⚡ FastAPI CRUD API | Production-ready REST API | FastAPI, PostgreSQL |
