@@ -4,16 +4,31 @@
 
 ### Python Backend Developer | AI & GenAI Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Python+Backend+Developer)](https://git.io/typing-svg)
-
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swetha-27-dotcom&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swetha-27-dotcom&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- Typing SVG here -->
 
 </div>
 
-</div>
+---
 
+## 🚀 About Me
+
+```python
+class Swetha:
+    role = "Python Backend Developer"
+    location = "Chennai, India"
+
+    skills = [
+        "Python",
+        "FastAPI",
+        "Docker",
+        "SQL",
+        "LangChain",
+        "GenAI"
+    ]
+
+    currently_learning = [
+        "LangGraph",
+        "MCP",
+        "Kubernetes"
+    ]
+```
