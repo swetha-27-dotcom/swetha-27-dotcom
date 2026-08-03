@@ -53,3 +53,21 @@ class Swetha:
 | 💬 RAG Chatbot | Chat with documents using RAG | LangChain, Pinecone, FastAPI |
 | 📊 Workforce Analytics | Forecasting & analytics dashboard | Python, Pandas, SQL |
 | ⚡ FastAPI CRUD API | Production-ready REST API | FastAPI, PostgreSQL |
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/shwey27">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:swethapja98@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/swetha-27-dotcom">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
